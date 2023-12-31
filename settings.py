@@ -1,0 +1,9 @@
+screen_width = 1000
+screen_height = 600
+bg_color = (230, 230, 230)
+ship_speed = 1.5
+bullet_speed = 2.0
+bullet_width = 3
+bullet_height = 15
+bullet_color = (255, 0, 0)
+bullets_allowed = 3
